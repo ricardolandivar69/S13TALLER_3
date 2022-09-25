@@ -1,0 +1,39 @@
+body{background-image: url(https://images2.alphacoders.com/999/999689.jpg);
+    background-repeat: no-repeat;
+}
+div{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+h1{
+    color:gray;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+input{
+    height: 100%;
+    width:99%;
+    background-color: white;
+    font-size: 30px;
+    text-align: center;
+}
+button{
+     width: 100%;
+     height: 50px;
+     font-size: 155%;
+     margin-bottom: 8px;
+     padding-bottom: 5px; 
+     border-radius: 8px;
+     background-color: gray;
+     font-family: Arial, Helvetica, sans-serif;
+}
+button:hover{
+    height: 50px;
+    background-color: white;
+}
+
+
+
+
